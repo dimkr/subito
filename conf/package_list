@@ -162,6 +162,7 @@ slackware|zlib|zlib|exe,dev,doc,nls
 # Subito GNU/Linux-specific stuff #
 ###################################
 subito|subito-desktop|subito-desktop|exe,dev,doc,nls
+subito|locale-gen|locale-gen|exe,dev,doc,nls
 subito|advancecomp|advancecomp|exe>dev,dev,doc,nls
 subito|optipng|optipng|exe>dev,dev,doc,nls
 subito|mktemp|mktemp|exe,dev,doc,nls
