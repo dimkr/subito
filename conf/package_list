@@ -189,8 +189,7 @@ subito|dvtm|dvtm|exe,dev,doc,nls
 subito|ncdu|ncdu|exe,dev,doc,nls
 subito|shed|shed|exe>dev,dev,doc,nls
 subito|tudu|tudu|exe,dev,doc,nls
-subito|aspell|aspell|exe,dev,doc,nls
-subito|aspell6-en|aspell6-en|exe,dev,doc,nls
+subito|aspell|aspell,aspell6-en|exe,dev,doc,nls
 subito|stalonetray|stalonetray|exe,dev,doc,nls
 subito|surfraw|surfraw|exe,dev,doc,nls
 subito|snownews|snownews|exe,dev,doc,nls
