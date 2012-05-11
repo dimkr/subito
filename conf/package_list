@@ -60,7 +60,7 @@ slackware|gettext-tools|gettext-tools|exe>dev,dev,doc,nls
 slackware|ghostscript|ghostscript|exe,dev,doc,nls
 slackware|git|git|exe>dev,dev,doc,nls
 slackware|glib|glib2|exe,dev,doc,nls
-slackware|glibc|glibc,glibc-solibs,glibc-zoneinfo,cxxlibs|exe,dev,doc,nls
+slackware|glibc|glibc,glibc-solibs,glibc-i18n,glibc-zoneinfo,cxxlibs|exe,dev,doc,nls
 slackware|gmp|gmp|exe,dev,doc,nls
 slackware|gnutls|gnutls|exe,dev,doc,nls
 slackware|grep|grep|exe,dev,doc,nls
