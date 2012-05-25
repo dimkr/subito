@@ -109,6 +109,7 @@ slackware|mesa|mesa,glew|exe,dev,doc,nls
 slackware|module-init-tools|module-init-tools|exe,dev,doc,nls
 slackware|mpfr|mpfr|exe>dev,dev,doc,nls
 slackware|nasm|nasm|exe>dev,dev,doc,nls
+slackware|nc|nc|exe,dev,doc,nls
 slackware|ncurses|ncurses|exe,dev,doc,nls
 slackware|netpbm|netpbm|exe,dev,doc,nls
 slackware|net-tools|net-tools|exe,dev,doc,nls
