@@ -18,7 +18,7 @@ delayed_run()
 }
 
 # set the desktop background
-hsetroot -solid \#505075
+xsetroot -solid \#505075
 
 # start all startup applications
 delayed_run &
