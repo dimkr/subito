@@ -141,6 +141,7 @@ slackware|subversion|subversion,neon|exe>dev,dev,doc,nls
 slackware|svgalib|svgalib|exe,dev,doc,nls
 slackware|sysfsutils|sysfsutils|exe,dev,doc,nls
 slackware|tar|tar|exe,dev,doc,nls
+slackware|tcpdump|tcpdump|exe,dev,doc,nls
 slackware|udev|udev|exe,dev,doc,nls
 slackware|util-linux|util-linux|exe,dev,doc,nls
 slackware|util-macros|util-macros|exe>dev,dev,doc,nls
