@@ -130,7 +130,7 @@ slackware|ppp|ppp|exe,dev,doc,nls
 slackware|procps|procps|exe
 slackware|python|python|exe>dev,dev,doc,nls
 slackware|readline|readline|exe,dev,doc,nls
-slackware|sane-backends|sane|exe,dev,doc,nls
+slackware|sane|v4l-utils,libieee1284,libgphoto2,libexif,net-snmp,sane|exe,dev,doc,nls
 # not crucial, but many applications and games need this
 slackware|sdl|sdl|exe,dev,doc,nls
 slackware|sed|sed|exe,dev,doc,nls
