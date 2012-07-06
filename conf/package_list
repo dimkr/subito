@@ -96,7 +96,7 @@ slackware|librsvg|librsvg|exe,dev,doc,nls
 slackware|libtheora|libtheora|exe,dev,doc,nls
 slackware|libtiff|libtiff|exe,dev,doc,nls
 slackware|libtool|libtool|exe>dev,dev,doc,nls
-slackware|libusb|libusb|exe,dev,doc,nls
+slackware|libusb|libusb,libusb-compat|exe,dev,doc,nls
 slackware|libvorbis|libvorbis|exe,dev,doc,nls
 slackware|libxcb_base|libxcb|exe,dev,doc,nls
 slackware|libxml2|libxml2|exe,dev,doc,nls
