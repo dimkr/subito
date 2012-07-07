@@ -207,7 +207,6 @@ subito|bitlbee|bitlbee|exe,dev,doc,nls
 subito|lftp|lftp|exe,dev,doc,nls
 subito|links|links|exe,dev,doc,nls
 subito|unnethack|unnethack|exe,dev,doc,nls
-subito|dosbox|dosbox|exe,dev,doc,nls
 subito|aria2|aria2|exe,dev,doc,nls
 subito|vim|vim|exe,dev,doc,nls
 subito|rxvt-unicode|rxvt-unicode|exe,dev,doc,nls
@@ -220,7 +219,6 @@ subito|rtorrent|rtorrent|exe,dev,doc,nls
 subito|libav|libav|exe,dev,doc,nls
 subito|cmus|cmus|exe,dev,doc,nls
 subito|mplayer2|mplayer2|exe,dev,doc,nls
-subito|fluidsynth|fluidsynth,musescore-soundfont-gm|exe,dev,doc,nls
 subito|figlet|figlet|exe,dev,doc,nls
 subito|terminus-font|terminus-font|exe,dev,doc,nls
 subito|grun|grun|exe,dev,doc,nls
