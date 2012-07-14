@@ -217,6 +217,7 @@ subito|libsigc++|libsigc++|exe,dev,doc,nls
 subito|libtorrent|libtorrent|exe,dev,doc,nls
 subito|rtorrent|rtorrent|exe,dev,doc,nls
 subito|libav|libav|exe,dev,doc,nls
+subito|alsaequal|caps,alsaequal|exe,dev,doc,nls
 subito|cmus|cmus|exe,dev,doc,nls
 subito|mplayer2|mplayer2|exe,dev,doc,nls
 subito|figlet|figlet|exe,dev,doc,nls
