@@ -222,5 +222,6 @@ subito|cmus|cmus|exe,dev,doc,nls
 subito|mplayer2|mplayer2|exe,dev,doc,nls
 subito|figlet|figlet|exe,dev,doc,nls
 subito|terminus-font|terminus-font|exe,dev,doc,nls
+subito|xdotool|xdotool|exe,dev,doc,nls
 subito|grun|grun|exe,dev,doc,nls
 subito|xbindkeys|xbindkeys|exe,dev,doc,nls
