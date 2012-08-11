@@ -103,6 +103,7 @@ slackware|libxml2|libxml2|exe,dev,doc,nls
 # use these instead of the kernel package's
 slackware|linux-header|kernel-headers|exe>dev,dev,doc,nls
 slackware|llvm|llvm|exe,dev,doc,nls
+slackware|lzo|lzo|exe,dev,doc,nls
 slackware|m4|m4|exe>dev,dev,doc,nls
 slackware|man|man|exe,dev,doc,nls
 slackware|man-pages|man-pages|exe,dev,doc,nls
