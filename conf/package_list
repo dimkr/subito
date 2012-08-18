@@ -62,10 +62,10 @@ slackware|git|git|exe>dev,dev,doc,nls
 slackware|glib|glib2|exe,dev,doc,nls
 slackware|glibc|glibc,glibc-solibs,glibc-i18n,glibc-zoneinfo,cxxlibs|exe,dev,doc,nls
 slackware|gmp|gmp|exe,dev,doc,nls
-slackware|gnutls|gnutls|exe,dev,doc,nls
+slackware|gnutls|p11-kit,nettle,gnutls|exe,dev,doc,nls
 slackware|grep|grep|exe,dev,doc,nls
 slackware|groff|groff|exe,dev,doc,nls
-slackware|gtk+|gtk+2|exe,dev,doc,nls
+slackware|gtk+|libffi,gtk+2|exe,dev,doc,nls
 slackware|guile|guile|exe,dev,doc,nls
 slackware|gutenprint|gutenprint|exe,dev,doc,nls
 slackware|gzip|gzip|exe,dev,doc,nls
@@ -126,7 +126,7 @@ slackware|pcmciautils|pcmciautils|exe,dev,doc,nls
 slackware|perl|perl|exe>dev,dev,doc,nls
 slackware|pixman|pixman|exe,dev,doc,nls
 slackware|pkgconfig|pkg-config|exe>dev,dev,doc,nls
-slackware|poppler|poppler|exe,dev,doc,nls
+slackware|poppler|lcms2,poppler|exe,dev,doc,nls
 slackware|ppp|ppp|exe,dev,doc,nls
 slackware|procps|procps|exe
 slackware|python|python|exe>dev,dev,doc,nls
