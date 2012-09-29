@@ -10,6 +10,9 @@
 "frost -m"
   XF86Sleep
 
+"slock"
+  Mod4 + l
+
 # launchers
 "grun"
   Alt + F2
