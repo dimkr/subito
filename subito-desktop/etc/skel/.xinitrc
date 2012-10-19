@@ -1,27 +1,13 @@
 #!/bin/dash
 
 # ~/.xinitrc: a startup script for the X server
-# dependencies: dash, hsetroot and cwm
-
-delayed_run()
-{
-	sleep 2
-
-	# start desktop applications
-	if [ -d ~/Startup ]
-	then
-		for i in ~/Startup/*
-		do
-			[ -x "$i" ] && $i &
-		done
-	fi
-}
+# dependencies: dash, xsetroot and cwm
 
 # set the desktop background
 xsetroot -solid \#333333
 
-# start all startup applications
-delayed_run &
+# start the rxvt-unicode daemon
+urxvtd -q -f -o
 
 # execute the window manager
 exec cwm
